@@ -9,7 +9,7 @@ import img2 from '../../asset/icons/image 9.svg'
 import img3 from '../../asset/icons/Logo.svg.svg'
 import img4 from '../../asset/icons/tailwind_css_logo.svg.svg'
 import img5 from '../../asset/icons/Page-1.svg'
-import img6 from '../../asset/icons/redux-icon.svg'
+// import img6 from '../../asset/icons/redux-icon.svg'
 
 // Register ScrollTrigger plugin
 gsap.registerPlugin(ScrollTrigger);
@@ -169,7 +169,7 @@ export default function Marquee() {
                             <Image className="w-15 lg:w-30" alt="vector" src={img3} />
                             <Image className="w-15 lg:w-30" alt="vector" src={img4} />
                             <Image className="w-15 lg:w-30" alt="vector" src={img5} />
-                            <Image className="w-15 lg:w-30" alt="vector" src={img6} />
+                            {/* <Image className="w-15 lg:w-30" alt="vector" src={img6} /> */}
                         </div>
                     </marquee>
                 </div>

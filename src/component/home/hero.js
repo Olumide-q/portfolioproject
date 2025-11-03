@@ -1009,7 +1009,7 @@ export default function Hero() {
                             
                             <div className="relative inline-block">
                                 <h2 className="text-white text-xl lg:text-5xl xl:text-6xl">
-                                    &gt; who love's{' '}
+                                     who love's{' '}
                                     <span className="relative inline-block">
                                         <span className="relative z-10 font-bold">Building</span>
                                         {/* Morphing SVG Animation with drawing effect */}
