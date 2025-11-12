@@ -282,15 +282,15 @@ export default function Footer() {
                             <a href="https://github.com/Olumide-q?tab=repositories" className=" ">
                             <Image className=" "  alt="Logo" src={git} />
                             </a>
-                            <a href="https://github.com/Olumide-q/Country-Api-Project.git" className=" ">
+                            <a href="https://www.linkedin.com/in/abdulquadri-ogunlana-167b18278/" className=" ">
                             <Image className=""  alt="Logo" src={linkdin} />
                             </a>
-                            <a href="https://github.com/Olumide-q/Country-Api-Project.git" className="">
-                            <Image className=" "  alt="Logo" src={twitter} />
-                            </a>
-                            <a href="https://github.com/Olumide-q/Country-Api-Project.git" className=" ">
-                            <Image className=" "  alt="Logo" src={insta} />
-                            </a>
+                            {/* <a href="" className="cursor-default"> */}
+                            <Image className=" cursor-not-allowed"  alt="Logo" src={twitter} />
+                            {/* </a> */}
+                            {/* <a href="" className="cursor-default "> */}
+                            <Image className="cursor-not-allowed "  alt="Logo" src={insta} />
+                            {/* </a> */}
                         </div>
     </div>
    </div>
