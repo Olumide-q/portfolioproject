@@ -23,7 +23,7 @@ export default function Experience() {
                                     <li>
                                         Built a fully responsive interface with real-time seat availability and interactive booking flows, ensuring consistent functionality across desktop, tablet, and mobile devices.</li>
                                     <li>Participated in daily standups, code reviews, and sprint planning sessions while actively learning and applying frontend best practices under senior developer mentorship.</li>
-                                    <li> Technologies Used: React, Zustand, Tailwind CSS,</li>
+                                    <li> I made Use next.js, Zustand, Tailwind CSS,</li>
                                 </ul>
                             </div>
                         </div>
